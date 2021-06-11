@@ -1,15 +1,26 @@
-# Davi Ramalho
+<h1 align = "center"> Olá! </h1>
 
-Entusiasta de Ciência de Dados e do uso de Python para resolver problemas. Arquiteto e Urbanista, Especialista em Projeto Arquitetônico, Mestre em Arquitetura, Urbanismo e Design da Informação, professor de Projeto Arquitetônico, Estudo e Representação da Forma e Desenho Técnico na Unifametro/Fortaleza e Instrutor BIM no SENAI/CE.
+<div align = "center">
+<div>
+<img src = "http://collab.arq.br/images/GF_collab.gif" alt = "Logo_Davi" width = "350" /></div>
+</div>
+
+Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de Dados e do uso de Python para entender a complexidade que nos rodeia. Especialista em Projeto Arquitetônico, Mestre em Arquitetura, Urbanismo e Design da Informação, professor de Projeto Arquitetônico, Estudo e Representação da Forma e Desenho Técnico na Unifametro/Fortaleza e Instrutor BIM no SENAI/CE. Me encontra ai:
+
+[![ResearchGate Badge](https://img.shields.io/badge/-DaviAndrade-gray?style=flat&labelColor=00CCBB&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Davi-Andrade)](https://www.researchgate.net/profile/Davi-Andrade)
+[![Linkedin Badge](https://img.shields.io/badge/-arqdaviramalho-gray?style=flat&labelColor=0A66C2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arqdaviramalho)](https://www.linkedin.com/in/arqdaviramalho)
+[![WordPress Badge](https://img.shields.io/badge/-terreiramanomade.com-gray?style=flat&labelColor=21759B&logo=WordPress&logoColor=white&link=https://www.terreiramanomade.com/)](https://www.terreiramanomade.com/)
+[![Youtube Badge](https://img.shields.io/badge/-davirrandrade-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/davirrandrade)](https://www.youtube.com/user/davirrandrade)
+[![Instagram Badge](https://img.shields.io/badge/-daviramalho_arq-gray?style=flat&labelColor=E4405F&logo=Instagram&logoColor=white&link=https://www.instagram.com/daviramalho_arq/)](https://www.instagram.com/daviramalho_arq/)
 
 #### Linguagens
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=gray)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&color=gray)
-![Html](https://img.shields.io/badge/-Html-000?&logo=html5&color=gray)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white&color=gray)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=white&color=gray)
+![Html](https://img.shields.io/badge/-Html-000?&logo=html5&logoColor=white&color=gray)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&color=gray)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX&color=gray)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&color=gray)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=white&color=gray)
 
 #### Tecnologias de interesse
 
@@ -17,8 +28,8 @@ Entusiasta de Ciência de Dados e do uso de Python para resolver problemas. Arqu
 ![Archicad](https://img.shields.io/badge/-Archicad-000?&logo=Archicad&color=gray)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender&color=gray)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&color=gray)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=gray)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&color=gray)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=white&color=gray)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=white&color=gray)
 
 #### GitHub Stats:
 
