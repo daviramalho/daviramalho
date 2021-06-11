@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá! </h1>
 
 <a href="http://collab.arq.br/images/GF_collab.gif">
-	<img width=400 align="right" src="http://collab.arq.br/images/GF_collab.gif">
+	<img width=200 align="right" src="http://collab.arq.br/images/GF_collab.gif">
 </a>
 
 Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de Dados e do uso de Python para entender a complexidade que nos rodeia. Especialista em Projeto Arquitetônico, Mestre em Arquitetura, Urbanismo e Design da Informação, professor de Projeto Arquitetônico, Estudo e Representação da Forma e Desenho Técnico na Unifametro/Fortaleza e Instrutor BIM no SENAI/CE. Me encontra ai:
