@@ -1,5 +1,9 @@
 <h1 align = "center"> Olá! </h1>
 
+<a href="http://collab.arq.br/images/GF_collab.gif">
+	<img width=320 align="left" src="http://collab.arq.br/images/GF_collab.gif">
+</a>
+
 Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de Dados e do uso de Python para entender a complexidade que nos rodeia. Especialista em Projeto Arquitetônico, Mestre em Arquitetura, Urbanismo e Design da Informação, professor de Projeto Arquitetônico, Estudo e Representação da Forma e Desenho Técnico na Unifametro/Fortaleza e Instrutor BIM no SENAI/CE. Me encontra ai:
   
 [![ResearchGate Badge](https://img.shields.io/badge/-DaviAndrade-gray?style=flat&labelColor=00CCBB&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Davi-Andrade)](https://www.researchgate.net/profile/Davi-Andrade)
