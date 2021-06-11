@@ -20,6 +20,8 @@ Entusiasta de Ciência de Dados e do uso de Python para resolver problemas. Arqu
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=gray)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&color=gray)
 
+#### GitHub Stats:
+
 ![DaviRamalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviramalho&theme=nord&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviramalho&theme=nord&show_icons=true&count_private=true)](https://github.com/daviramalho/github-readme-stats)
