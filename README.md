@@ -4,7 +4,7 @@ Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de 
   
 [![ResearchGate Badge](https://img.shields.io/badge/-DaviAndrade-gray?style=flat&labelColor=00CCBB&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Davi-Andrade)](https://www.researchgate.net/profile/Davi-Andrade)
 [![Linkedin Badge](https://img.shields.io/badge/-arqdaviramalho-gray?style=flat&labelColor=0A66C2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arqdaviramalho)](https://www.linkedin.com/in/arqdaviramalho)
-[![WordPress Badge](https://img.shields.io/badge/-terreiramanomade.com-gray?style=flat&labelColor=21759B&logo=WordPress&logoColor=white&link=https://www.terreiramanomade.com/)](https://www.terreiramanomade.com/)
+[![WordPress Badge](https://img.shields.io/badge/-collab.arq.br-gray?style=flat&labelColor=21759B&logo=WordPress&logoColor=white&link=https://www.collab.arq.br)](https://www.collab.arq.br)
 [![Youtube Badge](https://img.shields.io/badge/-davirrandrade-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/davirrandrade)](https://www.youtube.com/user/davirrandrade)
 [![Instagram Badge](https://img.shields.io/badge/-daviramalho_arq-gray?style=flat&labelColor=E4405F&logo=Instagram&logoColor=white&link=https://www.instagram.com/daviramalho_arq/)](https://www.instagram.com/daviramalho_arq/)
 
