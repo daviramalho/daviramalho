@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá! </h1>
 
 <a href="http://collab.arq.br/images/GF_collab.gif">
-	<img width=400 align="left" src="http://collab.arq.br/images/GF_collab.gif">
+	<img width=400 align="right" src="http://collab.arq.br/images/GF_collab.gif">
 </a>
 
 Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de Dados e do uso de Python para entender a complexidade que nos rodeia. Especialista em Projeto Arquitetônico, Mestre em Arquitetura, Urbanismo e Design da Informação, professor de Projeto Arquitetônico, Estudo e Representação da Forma e Desenho Técnico na Unifametro/Fortaleza e Instrutor BIM no SENAI/CE. Me encontra ai:
@@ -30,11 +30,15 @@ Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=white&color=gray)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=white&color=gray)
 
+<div align = "center">
+
 #### GitHub Stats:
 
 ![DaviRamalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviramalho&theme=nord&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviramalho&theme=nord&show_icons=true&count_private=true)](https://github.com/daviramalho/github-readme-stats)
+
+</div>
 
 ### Principais Projetos em Andamento
 
