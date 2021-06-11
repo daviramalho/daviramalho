@@ -1,6 +1,5 @@
 <h1 align = "center"> Olá! </h1>
 
-------
 
 <a href="http://collab.arq.br">
 	<img width=200 align="right" src="http://collab.arq.br/images/GF_collab.gif">
