@@ -1,7 +1,9 @@
 <h1 align = "center"> Olá! </h1>
 
+------
+
 <a href="http://collab.arq.br">
-	<img width=200 align="right" src="http://collab.arq.br/images/logo_orange.jpg">
+	<img width=200 align="right" src="http://collab.arq.br/images/GF_collab.gif">
 </a>
 
 Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de Dados e do uso de Python para entender a complexidade que nos rodeia. Especialista em Projeto Arquitetônico, Mestre em Arquitetura, Urbanismo e Design da Informação, professor de Projeto Arquitetônico, Estudo e Representação da Forma e Desenho Técnico na Unifametro/Fortaleza e Instrutor BIM no SENAI/CE. Me encontra ai:
@@ -45,3 +47,14 @@ Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de 
 [![Bootcamp Alura](https://github-readme-stats.vercel.app/api/pin/?username=daviramalho&repo=Bootcamp-DS2-Alura&theme=nord&show_icons=true)](https://github.com/daviramalho/Bootcamp-DS2-Alura)
 [![Bootcamp Alura - Projeto 01](https://github-readme-stats.vercel.app/api/pin/?username=daviramalho&repo=Bootcamp-DS2-Alura-Projeto_01&theme=nord&show_icons=true)](https://github.com/daviramalho/Bootcamp-DS2-Alura-Projeto_01)
 [![Speech Recognition](https://github-readme-stats.vercel.app/api/pin/?username=daviramalho&repo=Speech-Recognition&theme=nord&show_icons=true)](https://github.com/daviramalho/Speech-Recognition)
+
+------
+
+<div align = "center">
+	<div>
+		<a href="http://collab.arq.br">
+		<img src = "http://collab.arq.br/images/logo_orange.jpg" alt = "Logo_Collab" width = "50" />
+		</a>
+	</div>
+by Davi Ramalho
+</div>
