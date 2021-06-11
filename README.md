@@ -23,6 +23,7 @@ Entusiasta de Ciência de Dados e do uso de Python para resolver problemas. Arqu
 #### GitHub Stats:
 
 ![DaviRamalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviramalho&theme=nord&show_icons=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviramalho&theme=nord&show_icons=true&count_private=true)](https://github.com/daviramalho/github-readme-stats)
 
 ### Principais Projetos em Andamento
