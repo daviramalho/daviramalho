@@ -19,6 +19,7 @@ Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=white&color=gray)
 ![Html](https://img.shields.io/badge/-Html-000?&logo=html5&logoColor=white&color=gray)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&color=gray)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown&color=gray)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX&color=gray)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=white&color=gray)
 
