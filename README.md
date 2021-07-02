@@ -45,7 +45,7 @@ Me chamo **Davi Ramalho**. Sou Arquiteto e Urbanista, Entusiasta de Ciência de 
 ### Principais Projetos em Andamento
 
 [![Bootcamp Alura](https://github-readme-stats.vercel.app/api/pin/?username=daviramalho&repo=Bootcamp-DS2-Alura&theme=nord&show_icons=true)](https://github.com/daviramalho/Bootcamp-DS2-Alura)
-[![Bootcamp Alura - Projeto 01](https://github-readme-stats.vercel.app/api/pin/?username=daviramalho&repo=Bootcamp-DS2-Alura-Projeto_01&theme=nord&show_icons=true)](https://github.com/daviramalho/Bootcamp-DS2-Alura-Projeto_01)
+[![Bootcamp Alura - Projeto 02 - Imuniza CE](https://github-readme-stats.vercel.app/api/pin/?username=daviramalho&repo=2021-P02-Imuniza_Ce&theme=nord&show_icons=true)](https://github.com/daviramalho/2021-P02-Imuniza_Ce)
 [![Speech Recognition](https://github-readme-stats.vercel.app/api/pin/?username=daviramalho&repo=Speech-Recognition&theme=nord&show_icons=true)](https://github.com/daviramalho/Speech-Recognition)
 
 ------
